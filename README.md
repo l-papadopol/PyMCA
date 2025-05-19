@@ -28,8 +28,6 @@ into a small oscilloscope *and* a 256-channel multichannel analyser (MCA).
 |--------------|--------------|
 | <img src="docs/screenshot_osc.png" width="340"> | <img src="docs/screenshot_mca.png" width="340"> |
 
-*(replace the images in **`docs/`** with your own)*
-
 ---
 
 ## Requirements
