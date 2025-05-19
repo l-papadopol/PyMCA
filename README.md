@@ -26,7 +26,7 @@ into a small oscilloscope *and* a 256-channel multichannel analyser (MCA).
 
 | Oscilloscope | MCA Spectrum |
 |--------------|--------------|
-| <img src="docs/screenshot_osc.png" width="340"> | <img src="docs/screenshot_mca_.png" width="340"> |
+| <img src="docs/screenshot_osc.png" width="340"> | <img src="docs/screenshot_mca.png" width="340"> |
 
 ---
 
