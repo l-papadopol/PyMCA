@@ -43,6 +43,7 @@ into a small oscilloscope *and* a 256-channel multichannel analyser (MCA).
 ```bash
 pip install pyqt5 pyqtgraph numpy picosdk
 ```
+You need also Pico Drivers wich are available for Windown and Linux here: https://www.picotech.com/downloads/linux
 
 > **Linux:** also install `libusb-1.0-0-dev` and run `sudo udevadm control --reload-rules` after PicoSDK install.
 
