@@ -83,7 +83,6 @@ python gui.py
 |     | **Baseline** | subtract average of first 10 % samples |
 |     | **Display** | Bar / Line spectrum |
 
-Oversampling is fixed to **2×**.
 ---
 
 ## File structure
