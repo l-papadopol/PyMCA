@@ -1,5 +1,5 @@
 # Minimal runtime dependencies
-pyqt5>=5.15
-pyqtgraph>=0.13
-numpy>=1.25
-picosdk>=1.1
+pyqt5==5.15.9
+pyqtgraph==0.13.3
+numpy==1.25.2
+picosdk==1.0.2
