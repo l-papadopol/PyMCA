@@ -1,4 +1,4 @@
-# PicoScope 2204A — Oscilloscope + MCA GUI
+# PyMCA: PicoScope 2204A — Oscilloscope + MCA GUI
 
 Python/PyQt application that turns a **PicoScope 2204A** (PS2000 series)  
 into a small oscilloscope *and* a 256-channel multichannel analyser (MCA).
